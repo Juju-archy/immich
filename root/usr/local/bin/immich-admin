@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cd /app/immich/server && node /app/immich/server/dist/main immich-admin "$@"

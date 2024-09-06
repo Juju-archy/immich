@@ -1,0 +1,3 @@
+#!/bin/bash
+
+node /app/immich/cli/dist/index.js "$@"
